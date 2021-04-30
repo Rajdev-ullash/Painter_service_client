@@ -4,7 +4,7 @@ live site link: https://service-ff551.web.app/
 <br />
 Features:
 <br>
-1.It's completely MERN project.<br />
+1.It's completely a MERN project.<br />
 2.In this project we using separate roll for admin & user.<br />
 3.Admin can change order status.<br />
 4.Admin can set other to admin.<br />
